@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745210100665217220/a9939dc002e7403a850c31668319da0b/artifacts
+end_time: 1742632604005
+entry_point_name: ''
+experiment_id: '745210100665217220'
+lifecycle_stage: active
+run_id: a9939dc002e7403a850c31668319da0b
+run_name: auspicious-dog-630
+run_uuid: a9939dc002e7403a850c31668319da0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742632588267
+status: 3
+tags: []
+user_id: xodus

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745210100665217220/0ba0ed47cd264ae991e1ba3005a2ab01/artifacts
+end_time: 1742632721307
+entry_point_name: ''
+experiment_id: '745210100665217220'
+lifecycle_stage: active
+run_id: 0ba0ed47cd264ae991e1ba3005a2ab01
+run_name: dazzling-frog-245
+run_uuid: 0ba0ed47cd264ae991e1ba3005a2ab01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742632673533
+status: 3
+tags: []
+user_id: xodus

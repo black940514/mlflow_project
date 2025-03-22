@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745210100665217220/264603e9787844dc8065bdca065e4e09/artifacts
+end_time: 1742631945235
+entry_point_name: ''
+experiment_id: '745210100665217220'
+lifecycle_stage: active
+run_id: 264603e9787844dc8065bdca065e4e09
+run_name: valuable-auk-839
+run_uuid: 264603e9787844dc8065bdca065e4e09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742631922497
+status: 3
+tags: []
+user_id: xodus

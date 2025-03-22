@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745210100665217220/ed458f6b78bc4640be4ec2564bd60011/artifacts
+end_time: 1742632359467
+entry_point_name: ''
+experiment_id: '745210100665217220'
+lifecycle_stage: active
+run_id: ed458f6b78bc4640be4ec2564bd60011
+run_name: persistent-fish-176
+run_uuid: ed458f6b78bc4640be4ec2564bd60011
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742632338559
+status: 3
+tags: []
+user_id: xodus

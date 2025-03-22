@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745210100665217220/8c1ea69158c24e0b8f74a25025b257d3/artifacts
+end_time: 1742632569811
+entry_point_name: ''
+experiment_id: '745210100665217220'
+lifecycle_stage: active
+run_id: 8c1ea69158c24e0b8f74a25025b257d3
+run_name: redolent-kit-938
+run_uuid: 8c1ea69158c24e0b8f74a25025b257d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742632549018
+status: 3
+tags: []
+user_id: xodus

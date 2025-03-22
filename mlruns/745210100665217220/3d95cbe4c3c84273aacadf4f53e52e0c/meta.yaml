@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745210100665217220/3d95cbe4c3c84273aacadf4f53e52e0c/artifacts
+end_time: 1742632512593
+entry_point_name: ''
+experiment_id: '745210100665217220'
+lifecycle_stage: active
+run_id: 3d95cbe4c3c84273aacadf4f53e52e0c
+run_name: respected-yak-424
+run_uuid: 3d95cbe4c3c84273aacadf4f53e52e0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742632498100
+status: 3
+tags: []
+user_id: xodus

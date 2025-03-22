@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745210100665217220/f4b4804b076c4c2f85bfd79f6e48cca2/artifacts
+end_time: 1742632533150
+entry_point_name: ''
+experiment_id: '745210100665217220'
+lifecycle_stage: active
+run_id: f4b4804b076c4c2f85bfd79f6e48cca2
+run_name: adaptable-donkey-288
+run_uuid: f4b4804b076c4c2f85bfd79f6e48cca2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742632512946
+status: 3
+tags: []
+user_id: xodus

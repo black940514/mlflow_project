@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745210100665217220/8f72f67804e448e4ad3bbe2e87bbb4c7/artifacts
+end_time: 1742632621259
+entry_point_name: ''
+experiment_id: '745210100665217220'
+lifecycle_stage: active
+run_id: 8f72f67804e448e4ad3bbe2e87bbb4c7
+run_name: beautiful-doe-913
+run_uuid: 8f72f67804e448e4ad3bbe2e87bbb4c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742632604187
+status: 3
+tags: []
+user_id: xodus

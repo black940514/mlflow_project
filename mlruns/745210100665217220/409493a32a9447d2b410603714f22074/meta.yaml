@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745210100665217220/409493a32a9447d2b410603714f22074/artifacts
+end_time: 1742632051463
+entry_point_name: ''
+experiment_id: '745210100665217220'
+lifecycle_stage: active
+run_id: 409493a32a9447d2b410603714f22074
+run_name: amazing-wolf-632
+run_uuid: 409493a32a9447d2b410603714f22074
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742632031284
+status: 3
+tags: []
+user_id: xodus

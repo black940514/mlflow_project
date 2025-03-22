@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745210100665217220/d4852c44faf346f8b6732f5731197cf1/artifacts
+end_time: 1742631993681
+entry_point_name: ''
+experiment_id: '745210100665217220'
+lifecycle_stage: active
+run_id: d4852c44faf346f8b6732f5731197cf1
+run_name: unique-stork-137
+run_uuid: d4852c44faf346f8b6732f5731197cf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742631969816
+status: 3
+tags: []
+user_id: xodus

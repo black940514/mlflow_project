@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745210100665217220/e918220887574f8a88c838a6ac168f6c/artifacts
+end_time: 1742632464984
+entry_point_name: ''
+experiment_id: '745210100665217220'
+lifecycle_stage: active
+run_id: e918220887574f8a88c838a6ac168f6c
+run_name: adaptable-pig-565
+run_uuid: e918220887574f8a88c838a6ac168f6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742632448730
+status: 3
+tags: []
+user_id: xodus

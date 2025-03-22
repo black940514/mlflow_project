@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745210100665217220/486d59ec5421434cbf23ffe111f7f748/artifacts
+end_time: 1742632721307
+entry_point_name: ''
+experiment_id: '745210100665217220'
+lifecycle_stage: active
+run_id: 486d59ec5421434cbf23ffe111f7f748
+run_name: magnificent-hen-179
+run_uuid: 486d59ec5421434cbf23ffe111f7f748
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742632673533
+status: 3
+tags: []
+user_id: xodus

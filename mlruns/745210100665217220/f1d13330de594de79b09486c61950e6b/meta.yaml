@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745210100665217220/f1d13330de594de79b09486c61950e6b/artifacts
+end_time: 1742632431649
+entry_point_name: ''
+experiment_id: '745210100665217220'
+lifecycle_stage: active
+run_id: f1d13330de594de79b09486c61950e6b
+run_name: debonair-pig-974
+run_uuid: f1d13330de594de79b09486c61950e6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742632416526
+status: 3
+tags: []
+user_id: xodus

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745210100665217220/a72f921e89974f2896d8cdee09bf9f19/artifacts
+end_time: 1742631841087
+entry_point_name: ''
+experiment_id: '745210100665217220'
+lifecycle_stage: active
+run_id: a72f921e89974f2896d8cdee09bf9f19
+run_name: funny-mole-384
+run_uuid: a72f921e89974f2896d8cdee09bf9f19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742631818004
+status: 3
+tags: []
+user_id: xodus

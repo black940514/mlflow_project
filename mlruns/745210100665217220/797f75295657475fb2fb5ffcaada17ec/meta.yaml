@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745210100665217220/797f75295657475fb2fb5ffcaada17ec/artifacts
+end_time: 1742632587947
+entry_point_name: ''
+experiment_id: '745210100665217220'
+lifecycle_stage: active
+run_id: 797f75295657475fb2fb5ffcaada17ec
+run_name: dapper-ant-379
+run_uuid: 797f75295657475fb2fb5ffcaada17ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742632570176
+status: 3
+tags: []
+user_id: xodus

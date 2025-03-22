@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745210100665217220/5aff85ce131648cbbb843d72e5f22639/artifacts
+end_time: 1742632112673
+entry_point_name: ''
+experiment_id: '745210100665217220'
+lifecycle_stage: active
+run_id: 5aff85ce131648cbbb843d72e5f22639
+run_name: resilient-goat-315
+run_uuid: 5aff85ce131648cbbb843d72e5f22639
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742632096299
+status: 3
+tags: []
+user_id: xodus

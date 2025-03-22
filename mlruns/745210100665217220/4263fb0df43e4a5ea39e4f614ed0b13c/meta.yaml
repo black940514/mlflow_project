@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745210100665217220/4263fb0df43e4a5ea39e4f614ed0b13c/artifacts
+end_time: 1742632162142
+entry_point_name: ''
+experiment_id: '745210100665217220'
+lifecycle_stage: active
+run_id: 4263fb0df43e4a5ea39e4f614ed0b13c
+run_name: sassy-eel-496
+run_uuid: 4263fb0df43e4a5ea39e4f614ed0b13c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742632146370
+status: 3
+tags: []
+user_id: xodus

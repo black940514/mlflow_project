@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745210100665217220/f4793667fcd042feaf6d16a8023595ea/artifacts
+end_time: 1742632323712
+entry_point_name: ''
+experiment_id: '745210100665217220'
+lifecycle_stage: active
+run_id: f4793667fcd042feaf6d16a8023595ea
+run_name: rare-midge-596
+run_uuid: f4793667fcd042feaf6d16a8023595ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742632309925
+status: 3
+tags: []
+user_id: xodus

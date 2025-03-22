@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745210100665217220/38fd3bedd85a4926bfd964ba158a2c74/artifacts
+end_time: 1742632145955
+entry_point_name: ''
+experiment_id: '745210100665217220'
+lifecycle_stage: active
+run_id: 38fd3bedd85a4926bfd964ba158a2c74
+run_name: unleashed-boar-191
+run_uuid: 38fd3bedd85a4926bfd964ba158a2c74
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742632128554
+status: 3
+tags: []
+user_id: xodus

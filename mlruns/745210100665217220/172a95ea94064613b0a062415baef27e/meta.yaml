@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745210100665217220/172a95ea94064613b0a062415baef27e/artifacts
+end_time: 1742631817617
+entry_point_name: ''
+experiment_id: '745210100665217220'
+lifecycle_stage: active
+run_id: 172a95ea94064613b0a062415baef27e
+run_name: bold-ape-851
+run_uuid: 172a95ea94064613b0a062415baef27e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742631801967
+status: 3
+tags: []
+user_id: xodus

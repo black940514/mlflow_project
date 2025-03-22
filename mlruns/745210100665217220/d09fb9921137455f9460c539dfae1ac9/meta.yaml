@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745210100665217220/d09fb9921137455f9460c539dfae1ac9/artifacts
+end_time: 1742632448348
+entry_point_name: ''
+experiment_id: '745210100665217220'
+lifecycle_stage: active
+run_id: d09fb9921137455f9460c539dfae1ac9
+run_name: judicious-shad-585
+run_uuid: d09fb9921137455f9460c539dfae1ac9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742632431876
+status: 3
+tags: []
+user_id: xodus

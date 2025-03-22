@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745210100665217220/5bb6d1582b2e481ca757180e60b8695e/artifacts
+end_time: 1742632218614
+entry_point_name: ''
+experiment_id: '745210100665217220'
+lifecycle_stage: active
+run_id: 5bb6d1582b2e481ca757180e60b8695e
+run_name: gifted-hare-114
+run_uuid: 5bb6d1582b2e481ca757180e60b8695e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742632206166
+status: 3
+tags: []
+user_id: xodus

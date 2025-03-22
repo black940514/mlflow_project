@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745210100665217220/76eb15a501594874861ad0da5ee4d759/artifacts
+end_time: 1742632232749
+entry_point_name: ''
+experiment_id: '745210100665217220'
+lifecycle_stage: active
+run_id: 76eb15a501594874861ad0da5ee4d759
+run_name: amazing-duck-527
+run_uuid: 76eb15a501594874861ad0da5ee4d759
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742632218959
+status: 3
+tags: []
+user_id: xodus

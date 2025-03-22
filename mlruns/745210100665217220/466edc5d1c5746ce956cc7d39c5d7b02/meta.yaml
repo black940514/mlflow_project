@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745210100665217220/466edc5d1c5746ce956cc7d39c5d7b02/artifacts
+end_time: 1742632074026
+entry_point_name: ''
+experiment_id: '745210100665217220'
+lifecycle_stage: active
+run_id: 466edc5d1c5746ce956cc7d39c5d7b02
+run_name: tasteful-ox-171
+run_uuid: 466edc5d1c5746ce956cc7d39c5d7b02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742632051694
+status: 3
+tags: []
+user_id: xodus

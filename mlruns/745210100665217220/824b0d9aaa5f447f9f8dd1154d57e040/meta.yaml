@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745210100665217220/824b0d9aaa5f447f9f8dd1154d57e040/artifacts
+end_time: 1742631888600
+entry_point_name: ''
+experiment_id: '745210100665217220'
+lifecycle_stage: active
+run_id: 824b0d9aaa5f447f9f8dd1154d57e040
+run_name: agreeable-turtle-849
+run_uuid: 824b0d9aaa5f447f9f8dd1154d57e040
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742631865662
+status: 3
+tags: []
+user_id: xodus

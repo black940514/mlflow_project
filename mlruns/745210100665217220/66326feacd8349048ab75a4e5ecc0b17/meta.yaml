@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745210100665217220/66326feacd8349048ab75a4e5ecc0b17/artifacts
+end_time: 1742632376761
+entry_point_name: ''
+experiment_id: '745210100665217220'
+lifecycle_stage: active
+run_id: 66326feacd8349048ab75a4e5ecc0b17
+run_name: clumsy-shrike-375
+run_uuid: 66326feacd8349048ab75a4e5ecc0b17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742632359669
+status: 3
+tags: []
+user_id: xodus

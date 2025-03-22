@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1742634322685
+current_stage: Production
+description: ''
+last_updated_timestamp: 1742634517971
+name: hellomlflow
+run_id: 8f72f67804e448e4ad3bbe2e87bbb4c7
+run_link: ''
+source: mlflow-artifacts:/745210100665217220/8f72f67804e448e4ad3bbe2e87bbb4c7/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/745210100665217220/8f72f67804e448e4ad3bbe2e87bbb4c7/artifacts/model
+user_id: null
+version: 1

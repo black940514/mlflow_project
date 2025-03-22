@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745210100665217220/a0113f2054924b1cbe40d2002949a8a3/artifacts
+end_time: 1742632721307
+entry_point_name: ''
+experiment_id: '745210100665217220'
+lifecycle_stage: active
+run_id: a0113f2054924b1cbe40d2002949a8a3
+run_name: legendary-jay-846
+run_uuid: a0113f2054924b1cbe40d2002949a8a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742632673533
+status: 3
+tags: []
+user_id: xodus

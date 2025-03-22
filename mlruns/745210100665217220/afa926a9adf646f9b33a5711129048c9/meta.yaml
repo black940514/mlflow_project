@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745210100665217220/afa926a9adf646f9b33a5711129048c9/artifacts
+end_time: 1742632278325
+entry_point_name: ''
+experiment_id: '745210100665217220'
+lifecycle_stage: active
+run_id: afa926a9adf646f9b33a5711129048c9
+run_name: resilient-crow-808
+run_uuid: afa926a9adf646f9b33a5711129048c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742632263208
+status: 3
+tags: []
+user_id: xodus

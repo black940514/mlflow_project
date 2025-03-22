@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745210100665217220/1b427aec739c4cea80084dca76a46d49/artifacts
+end_time: 1742632548813
+entry_point_name: ''
+experiment_id: '745210100665217220'
+lifecycle_stage: active
+run_id: 1b427aec739c4cea80084dca76a46d49
+run_name: awesome-toad-728
+run_uuid: 1b427aec739c4cea80084dca76a46d49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742632533459
+status: 3
+tags: []
+user_id: xodus

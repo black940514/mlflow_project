@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745210100665217220/bb6d501744ff4f9da412d0207d8d8b71/artifacts
+end_time: 1742632205973
+entry_point_name: ''
+experiment_id: '745210100665217220'
+lifecycle_stage: active
+run_id: bb6d501744ff4f9da412d0207d8d8b71
+run_name: secretive-stoat-811
+run_uuid: bb6d501744ff4f9da412d0207d8d8b71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742632192326
+status: 3
+tags: []
+user_id: xodus

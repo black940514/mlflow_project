@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745210100665217220/7a39df207e9c4acf86b956129ad0510d/artifacts
+end_time: 1742632497883
+entry_point_name: ''
+experiment_id: '745210100665217220'
+lifecycle_stage: active
+run_id: 7a39df207e9c4acf86b956129ad0510d
+run_name: able-crab-34
+run_uuid: 7a39df207e9c4acf86b956129ad0510d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742632480689
+status: 3
+tags: []
+user_id: xodus

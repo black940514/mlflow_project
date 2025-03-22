@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745210100665217220/1e481c1b3fcc49d28617f010867a21af/artifacts
+end_time: 1742632294874
+entry_point_name: ''
+experiment_id: '745210100665217220'
+lifecycle_stage: active
+run_id: 1e481c1b3fcc49d28617f010867a21af
+run_name: loud-moose-170
+run_uuid: 1e481c1b3fcc49d28617f010867a21af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742632278553
+status: 3
+tags: []
+user_id: xodus

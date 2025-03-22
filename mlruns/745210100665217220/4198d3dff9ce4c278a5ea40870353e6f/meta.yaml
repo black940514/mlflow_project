@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745210100665217220/4198d3dff9ce4c278a5ea40870353e6f/artifacts
+end_time: 1742632013387
+entry_point_name: ''
+experiment_id: '745210100665217220'
+lifecycle_stage: active
+run_id: 4198d3dff9ce4c278a5ea40870353e6f
+run_name: rare-ox-693
+run_uuid: 4198d3dff9ce4c278a5ea40870353e6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742631994312
+status: 3
+tags: []
+user_id: xodus

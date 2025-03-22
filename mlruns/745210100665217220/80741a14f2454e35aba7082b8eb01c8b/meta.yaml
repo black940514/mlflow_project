@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745210100665217220/80741a14f2454e35aba7082b8eb01c8b/artifacts
+end_time: 1742632178263
+entry_point_name: ''
+experiment_id: '745210100665217220'
+lifecycle_stage: active
+run_id: 80741a14f2454e35aba7082b8eb01c8b
+run_name: upbeat-fowl-567
+run_uuid: 80741a14f2454e35aba7082b8eb01c8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742632162581
+status: 3
+tags: []
+user_id: xodus

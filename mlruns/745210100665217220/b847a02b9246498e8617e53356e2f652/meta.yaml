@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745210100665217220/b847a02b9246498e8617e53356e2f652/artifacts
+end_time: 1742632480500
+entry_point_name: ''
+experiment_id: '745210100665217220'
+lifecycle_stage: active
+run_id: b847a02b9246498e8617e53356e2f652
+run_name: magnificent-loon-735
+run_uuid: b847a02b9246498e8617e53356e2f652
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742632465140
+status: 3
+tags: []
+user_id: xodus

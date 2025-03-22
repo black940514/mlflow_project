@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745210100665217220/cfe9a4e22f034c68a99e4a63baa6bec9/artifacts
+end_time: 1742632673258
+entry_point_name: ''
+experiment_id: '745210100665217220'
+lifecycle_stage: active
+run_id: cfe9a4e22f034c68a99e4a63baa6bec9
+run_name: calm-squirrel-720
+run_uuid: cfe9a4e22f034c68a99e4a63baa6bec9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742632657421
+status: 3
+tags: []
+user_id: xodus
